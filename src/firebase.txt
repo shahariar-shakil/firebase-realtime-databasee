@@ -1,0 +1,22 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false
+  }
+}
+
+To update the rules:
+
+Go to the Firebase Console.
+Select your project.
+Navigate to the "Realtime Database" section.
+Click on the "Rules" tab.
+Replace the existing rules with the corrected ones.
+Click on "Publish" to apply the changes.
+
+
+database:
+https://react-app2-4282e-default-rtdb.firebaseio.com/
+
+img:
+https://codemanbd.com/wp-content/uploads/2023/02/Minhazul-Asif-911x1024.jpeg
